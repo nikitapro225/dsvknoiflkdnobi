@@ -1,0 +1,10 @@
+[
+    {
+        "site": "ping.pong",
+        "source": "url"
+    }, 
+    {
+        "site": "register.it",
+        "source": "url"
+    }
+]
